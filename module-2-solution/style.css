@@ -59,8 +59,9 @@ section.Clash-of-Clans>h2{
 
 section>p {
 	clear:both;
-	height: 500px;
-	padding: 10px 10px 10px 10px;
+	text-align: justify;
+	height: 580px;
+	padding: 20px 20px 20px 20px;
 }
 
 @media (min-width: 992px) {
